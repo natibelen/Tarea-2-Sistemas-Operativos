@@ -20,6 +20,7 @@ Para la parte 2 se incluyen:
 - run_experiments.sh — Script automático para ejecutar las pruebas
 - trace1.txt, trace2.txt — Tracas de la tarea
 - small_trace.txt — Trace pequeño para verificación (verbose)
+
  Requisitos
 
 - Linux o WSL  
