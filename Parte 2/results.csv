@@ -1,0 +1,7 @@
+trace,nframes,page_size,referencias,fallos,tasa
+trace1.txt,8,8,8192,8073,0.985474
+trace1.txt,16,8,8192,7943,0.969604
+trace1.txt,32,8,8192,7713,0.941528
+trace2.txt,8,4096,8192,7649,0.933716
+trace2.txt,16,4096,8192,7138,0.871338
+trace2.txt,32,4096,8192,6142,0.749756
